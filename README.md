@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @homt60
-- 👀 I’m interested in python programming, site designing ,andc other electronic things
+- 👀 I’m interested in python programming, site designing ,and other electronic things
 - 🌱 I’m currently learning site development
 - 📫 How to reach me sitnikoff2020@gmail.com
 
